@@ -3,7 +3,7 @@
 <a href="https://github.com/Vova2808/YOLO_Tracking_Hand/assets/96084748/1c87fb4f-e501-443f-9e8f-6d09966a5d8b"><br/>
 
 
-# Докуиентация
+# Документация
 
 <p dir="auto"><a href="https://github.com/ultralytics/ultralytics">Ultralytics YOLOv8  </a> , разработанный компанией  <a href="https://ultralytics.com" rel="nofollow"> Ultralytics  </a> , 
   это передовая, современная (SOTA) модель, основанная на успехе предыдущих версий YOLO и представляющая 
